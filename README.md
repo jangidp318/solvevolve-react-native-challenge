@@ -4,10 +4,10 @@ Assignment to make a food item adding list View, and display the data in JSON fo
 
 ## Images
 
-<img src="/images/img1.jpg" style="width:flex; height:flex">
-<img src="/images/img2.jpg" style="width:flex; height:flex">
-<img src="/images/img3.jpg" style="width:flex; height:flex">
-<img src="/images/img4.jpg" style="width:flex; height:flex">
+<img src="/images/img1.jpeg" style="width:flex; height:flex">
+<img src="/images/img2.jpeg" style="width:flex; height:flex">
+<img src="/images/img3.jpeg" style="width:flex; height:flex">
+<img src="/images/img4.jpeg" style="width:flex; height:flex">
 
 
 ## Functionalities
