@@ -20,7 +20,7 @@ Assignment to make a food item adding list View, and display the data in JSON fo
 
 1. clone this project
 ````
-$ git clone https://github.com/jangidp318/django_aurkoisawal_app.git
+$ git clone https://github.com/jangidp318/solvevolve-react-native-challenge.git
 ````
 2. Install the Expo Cli
 
